@@ -1,0 +1,36 @@
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\Ödevs.exe
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\Ödevs.deps.json
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\Ödevs.runtimeconfig.json
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\Ödevs.runtimeconfig.dev.json
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\ref\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\bin\Debug\net5.0-windows\Ödevs.pdb
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.csprojAssemblyReference.cache
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.Form1.resources
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.csproj.GenerateResource.cache
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.AssemblyInfoInputs.cache
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.AssemblyInfo.cs
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\ref\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.pdb
+C:\Users\Batuhan Kolaç\Desktop\Yeni klasör (2)\Ödevs\Ödevs\obj\Debug\net5.0-windows\Ödevs.genruntimeconfig.cache
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\Ödevs.exe
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\Ödevs.deps.json
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\Ödevs.runtimeconfig.json
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\Ödevs.runtimeconfig.dev.json
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\ref\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\bin\Debug\net5.0-windows\Ödevs.pdb
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.csprojAssemblyReference.cache
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.Form1.resources
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.csproj.GenerateResource.cache
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.AssemblyInfoInputs.cache
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.AssemblyInfo.cs
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\ref\Ödevs.dll
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.pdb
+C:\Users\Batuhan Kolaç\Desktop\Ödevler\Yeni klasör (2)\Ortalama Hesaplama\Ödevs\obj\Debug\net5.0-windows\Ödevs.genruntimeconfig.cache
